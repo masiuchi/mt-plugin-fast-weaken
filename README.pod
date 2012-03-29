@@ -1,0 +1,25 @@
+=head1 NAME
+
+MT::Plugin::FastWeaken - may become MT quick only a few
+
+=head1 SYNOPSIS
+
+ AdminScript mt-fast-weaken.cgi
+
+=head1 DESCRIPTION
+
+This plugin may become MT quick only a few.
+
+=head1 AUTHOR
+
+masiuchi
+
+https://www.github.com/masiuchi/
+
+=head1 LICENSE AND COPYRIGHT
+
+Copyright (c) 2012, masiuchi. All rights reserved.
+
+This is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
+
+=cut
