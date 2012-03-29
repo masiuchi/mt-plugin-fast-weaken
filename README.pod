@@ -10,6 +10,8 @@ MT::Plugin::FastWeaken - may become MT quick only a few
 
 This plugin may become MT quick only a few.
 
+If you want to install/uninstall, you need to change "mt-config.cgi".
+
 =head1 AUTHOR
 
 masiuchi
